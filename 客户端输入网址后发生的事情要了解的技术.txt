@@ -1,0 +1,2 @@
+1>dns解析,tcp/ip三次握手四次挥手,http协议,https协议
+2>304缓存,http状态码,http的响应报文
